@@ -3,7 +3,7 @@
 A script to remove default apps from the macOS Dock and keep essential ones.
 
 ## Requirements
-- macOS system
+- macOS system 
 - Terminal access
 - Internet connection (for initial setup)
 
@@ -16,3 +16,15 @@ A script to remove default apps from the macOS Dock and keep essential ones.
 1. Make the script executable:
 ```bash
 chmod +x clear_dock.sh
+```
+
+2. Run the script:
+```bash
+./clear_dock.sh
+```
+## License
+- MIT License
+
+EOF
+
+
